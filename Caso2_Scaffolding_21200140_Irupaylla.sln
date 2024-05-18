@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.8.34511.84
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Caso2_Scaffolding_21200140_Irupaylla.API", "Caso2_Scaffolding_21200140_Irupaylla\Caso2_Scaffolding_21200140_Irupaylla.API.csproj", "{663CE08D-C47F-4EFE-B4D7-D838085985CA}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Caso2_Scaffolding_21200140_Irupaylla.DOMAIN", "Caso2_Scaffolding_21200140_Irupaylla.DOMAIN\Caso2_Scaffolding_21200140_Irupaylla.DOMAIN.csproj", "{8A219499-D6ED-409F-886E-BBF8C0CEDEAD}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{663CE08D-C47F-4EFE-B4D7-D838085985CA}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{663CE08D-C47F-4EFE-B4D7-D838085985CA}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{663CE08D-C47F-4EFE-B4D7-D838085985CA}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{663CE08D-C47F-4EFE-B4D7-D838085985CA}.Release|Any CPU.Build.0 = Release|Any CPU
+		{8A219499-D6ED-409F-886E-BBF8C0CEDEAD}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8A219499-D6ED-409F-886E-BBF8C0CEDEAD}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8A219499-D6ED-409F-886E-BBF8C0CEDEAD}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8A219499-D6ED-409F-886E-BBF8C0CEDEAD}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {665B6D43-576A-4462-B0D3-588159094AB3}
+	EndGlobalSection
+EndGlobal
